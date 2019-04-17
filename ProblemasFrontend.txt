@@ -1,0 +1,4 @@
+npm audit fix --force
+ng update @angular/cli --migrate-only --from=1.7.3
+npm i typescript@3.1.6 --save-dev --save--exact
+0979334222
